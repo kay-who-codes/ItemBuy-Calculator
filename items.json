@@ -1,0 +1,9 @@
+[
+    { "name": "Lidl Water", "price": 0.69 },
+    { "name": "Morrisons Water", "price": 1.19 },
+    { "name": "Train", "price": 8.80 },
+    { "name": "Lunch", "price": 9 },
+    { "name": "Drink", "price": 3.50 },
+    { "name": "Blue Moon", "price":4.74 },
+    { "name": "Drinks", "price": 6 }
+]
